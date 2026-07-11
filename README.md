@@ -12,3 +12,6 @@ Build real programming fundamentals step by step.
 - Practiced print, variable, and input
 - Created the first Python file
 - Started coding from zero
+### Day2
+- Practiced int conversion and conditional statements
+- Used if, elif, and else to classify input values
