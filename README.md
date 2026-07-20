@@ -18,3 +18,7 @@ Build real programming fundamentals step by step.
 ### Day3
 - Practiced while loop and break statement
 - Built a number-guessing game combining input, condition, and loop
+### Day4
+- Practiced for loop with a list
+- Calculated total and average using accumulation pattern
+- Combined for loop with existing if/elif/else logic
