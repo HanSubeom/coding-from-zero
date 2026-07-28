@@ -22,3 +22,7 @@ Build real programming fundamentals step by step.
 - Practiced for loop with a list
 - Calculated total and average using accumulation pattern
 - Combined for loop with existing if/elif/else logic
+### Day5
+- Practiced defining functions with def, parameters, and return
+- Refactored existing for loop and if/elif/else logic into separate functions
+- Wrote count_strong function independently using the same for loop and if pattern
