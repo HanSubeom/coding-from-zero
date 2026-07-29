@@ -26,3 +26,8 @@ Build real programming fundamentals step by step.
 - Practiced defining functions with def, parameters, and return
 - Refactored existing for loop and if/elif/else logic into separate functions
 - Wrote count_strong function independently using the same for loop and if pattern
+### Day6
+- Practiced string method .split() and list method .append()
+- Wrote get_scores() function to convert user input into a list of integers
+- Connected get_scores() with existing functions from Day5
+- Tested a ValueError case with non-numeric input ("hello") and read the traceback
